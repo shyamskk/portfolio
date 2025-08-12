@@ -23,7 +23,6 @@ const Skills = () => {
     { name: "REST APIs", icon: <i className="devicon-api-plain text-blue-400 text-4xl"></i> },
     { name: "Git", icon: <i className="devicon-git-plain text-orange-600 text-4xl"></i> },
     { name: "GitHub", icon: <i className="devicon-github-original text-black text-4xl"></i> },
-    { name: "Windows", icon: <FaWindows className="text-blue-500" size={40} /> },
     { name: "Unix/Linux", icon: <SiLinux className="text-gray-700" size={40} /> },
   ];
 
