@@ -1,5 +1,6 @@
 import React from "react";
 import { FaGithub, FaEnvelope } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 
 export default function Contact() {
   return (
@@ -16,6 +17,9 @@ export default function Contact() {
           </a>
           <a href="mailto:shyamkumar14318@gmail.com" className="text-gray-400 hover:text-white transition flex items-center gap-2">
             <FaEnvelope /> Email
+          </a>
+          <a href="mailto:shyamkumar14318@gmail.com" className="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <SiLeetcode /> LeetCode
           </a>
         </div>
       </div>
